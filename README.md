@@ -1,1 +1,1 @@
-This project is created using Expo version 46. To run the project, go into this folder and run "npx expo start" from the terminal. You can then connect to ios, android, or web!
+This project is created using Expo version 46. To run the project, go into this folder and run "npm install", then 'npx expo' from the terminal. You can then connect to ios, android, or web!
